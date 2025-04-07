@@ -20,6 +20,14 @@ class App extends React.Component {
         <Counter />
         <Toggle />
         <ShowHide />
+        <Greeting />
+        <RefactorCounter />
+        <RefactorToggle />
+        <RefactorShowHide />
+        <RbgSlide />
+        <TextAlign />
+        <ColorChange />
+        <FontSize />      
       </div>
     );
   }
